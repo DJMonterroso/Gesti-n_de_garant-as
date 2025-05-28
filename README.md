@@ -10,7 +10,7 @@ Este proyecto es un sistema de gestión de garantías para computadoras, desarro
 - `historial.txt`: Archivo de texto donde se registra el historial de cada computadora.
 - `datos_garantias.ser`: Archivo serializado que conserva el estado de las colas entre sesiones.
 
-## 🛠 Funcionalidades
+##  Funcionalidades
 
 - Registro de computadoras con validación de datos.
 - Procesamiento paso a paso mediante colas FIFO.
@@ -37,11 +37,12 @@ Este proyecto es un sistema de gestión de garantías para computadoras, desarro
 ##  Cómo ejecutar
 
 1. Compilar el programa:
-   ```bash
-   javac Gestion_de_garantias.java
+```bash
+javac Gestion_de_garantias.java
+```
    
 Ejecutar el sistema:
- ```bash
+```bash
 java Gestion_de_garantias
 ```
 El sistema guarda los datos automáticamente en ``` datos_garantias.ser ```y el historial en ```bash historial.txt```.
