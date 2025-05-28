@@ -1,0 +1,24 @@
+--- Comp a123 ---
+Recepción: 12-12-2025
+Inspección iniciada: 24-05-2025
+
+--- Comp 123b ---
+Recepción: 12-12-2025
+
+--- SERVICE TAG | a123 ---
+Cliente: a
+Correo: a@gmail.com
+Teléfono: 12345678
+Fecha Recepción: 12-12-2025
+Descripción del Problema: a
+Recepción: 12-12-2025
+
+--- SERVICE TAG | 123b ---
+Cliente: b
+Correo: b@gmail.com
+Teléfono: 12345678
+Fecha Recepción: 12-12-2025
+Descripción del Problema: b
+Recepción: 12-12-2025
+Inspección iniciada: 24-05-2025
+
