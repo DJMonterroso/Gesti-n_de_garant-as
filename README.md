@@ -45,7 +45,7 @@ javac Gestion_de_garantias.java
 ```bash
 java Gestion_de_garantias
 ```
-El sistema guarda los datos automáticamente en ``` datos_garantias.ser ```y el historial en ```h istorial.txt ```.
+El sistema guarda los datos automáticamente en ``` datos_garantias.ser ```y el historial en ```historial.txt ```.
 
 ## Validaciones implementadas
 - Email válido
