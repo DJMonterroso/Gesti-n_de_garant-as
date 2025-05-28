@@ -41,7 +41,7 @@ Este proyecto es un sistema de gestión de garantías para computadoras, desarro
 javac Gestion_de_garantias.java
 ```
    
-Ejecutar el sistema:
+2. Ejecutar el sistema:
 ```bash
 java Gestion_de_garantias
 ```
